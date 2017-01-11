@@ -1,0 +1,30 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "My node npm express demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bworkm/07-node-npm.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "npm",
+    "07",
+    "lab"
+  ],
+  "author": "I am all that is man!",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bworkm/07-node-npm/issues"
+  },
+  "homepage": "https://github.com/bworkm/07-node-npm#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
